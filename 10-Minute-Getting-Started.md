@@ -1,5 +1,3 @@
-我帮你重新组织成更清晰直观的 GitHub Markdown 格式，同时保持直白的口语化表达：
-
 ```markdown
 # 🌱 ZeroAop 极简配置指南
 
