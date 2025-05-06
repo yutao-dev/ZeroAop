@@ -22,6 +22,7 @@
 ---  
 
 # **ZeroAop: Zero-Config, Minimalist AOP—Say Goodbye to Complex Annotations and Aspects!**  
+# 📜 Community Innovation: Created by yutao-dev in 2025. Released as public domain.****
 **Developer**: yutao-dev (Undergraduate at a non-elite university, Sophomore | HCI Lab Intern at Tsinghua University | Lead Developer | Java Backend Engineer)  
 
 Tired of struggling with AOP + custom annotations just to implement user behavior tracking? Try this **brand-new development paradigm**—simple, flexible, and perfect for most scenarios where AOP + custom annotations are needed, including feature toggles!  
